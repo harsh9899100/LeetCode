@@ -1,0 +1,555 @@
+Topic Level: Level 1 — Core JavaScript (Basics + Foundations)
+Topic SET: JavaScript Essentials
+Topic Name: Arrays (Basics)
+Questions
+
+- Easy Question SET:
+  - 26. Remove Duplicates from Sorted Array
+  - 27. Remove Element
+  - 88. Merge Sorted Array
+  - 283. Move Zeroes
+  - 1480. Running Sum of 1d Array
+  - 977. Squares of a Sorted Array
+  - 643. Maximum Average Subarray I
+
+- Medium Question SET:
+  - 80. Remove Duplicates from Sorted Array II
+  - 189. Rotate Array
+  - 56. Merge Intervals
+  - 75. Sort Colors
+  - 915. Partition Array into Disjoint Intervals
+  - 238. Product of Array Except Self
+
+Topic Level: Level 1 — Core JavaScript (Basics + Foundations)
+Topic SET: JavaScript Essentials
+Topic Name: Strings (Basics)
+Questions
+
+- Easy Question SET:
+  - 14. Longest Common Prefix
+  - 125. Valid Palindrome
+  - 344. Reverse String
+  - 345. Reverse Vowels of a String
+  - 383. Ransom Note
+  - 387. First Unique Character in a String
+  - 796. Rotate String
+  - 1021. Remove Outermost Parentheses
+  - 1108. Defanging an IP Address
+  - 1704. Determine if String Halves Are Alike
+
+- Medium Question SET:
+  - 3. Longest Substring Without Repeating Characters
+  - 5. Longest Palindromic Substring
+  - 49. Group Anagrams
+  - 6. Zigzag Conversion
+  - 151. Reverse Words in a String
+  - 424. Longest Repeating Character Replacement
+  - 678. Valid Parenthesis String
+  - 316. Remove Duplicate Letters
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Key Data Structures
+Topic Name: Hash Table
+Questions
+
+- Easy Question SET:
+  - 1. Two Sum
+  - 217. Contains Duplicate
+  - 242. Valid Anagram
+  - 290. Word Pattern
+  - 349. Intersection of Two Arrays
+  - 350. Intersection of Two Arrays II
+  - 202. Happy Number
+
+- Medium Question SET:
+  - 347. Top K Frequent Elements
+  - 380. Insert Delete GetRandom O(1)
+  - 36. Valid Sudoku
+  - 560. Subarray Sum Equals K
+  - 128. Longest Consecutive Sequence
+  - 525. Contiguous Array
+  - 981. Time Based Key-Value Store
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Key Data Structures
+Topic Name: Stack
+Questions
+
+- Easy Question SET:
+  - 20. Valid Parentheses
+  - 1021. Remove Outermost Parentheses
+  - 1047. Remove All Adjacent Duplicates In String
+  - 225. Implement Stack using Queues
+
+- Medium Question SET:
+  - 155. Min Stack
+  - 150. Evaluate Reverse Polish Notation
+  - 394. Decode String
+  - 402. Remove K Digits
+  - 739. Daily Temperatures
+  - 901. Online Stock Span
+  - 503. Next Greater Element II
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Key Data Structures
+Topic Name: Queue
+Questions
+
+- Easy Question SET:
+  - 933. Number of Recent Calls
+  - 346. Moving Average from Data Stream
+  - 232. Implement Queue using Stacks
+
+- Medium Question SET:
+  - 622. Design Circular Queue
+  - 641. Design Circular Deque
+  - 362. Design Hit Counter
+  - 621. Task Scheduler
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Basic Algorithm Techniques
+Topic Name: Two Pointers
+Questions
+
+- Easy Question SET:
+  - 125. Valid Palindrome
+  - 977. Squares of a Sorted Array
+  - 392. Is Subsequence
+  - 283. Move Zeroes
+  - 1672. Richest Customer Wealth
+
+- Medium Question SET:
+  - 11. Container With Most Water
+  - 15. 3Sum
+  - 16. 3Sum Closest
+  - 18. 4Sum
+  - 75. Sort Colors
+  - 986. Interval List Intersections
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Basic Algorithm Techniques
+Topic Name: Sliding Window
+Questions
+
+- Easy Question SET:
+  - 643. Maximum Average Subarray I
+  - 219. Contains Duplicate II
+  - 1839. Longest Substring Of All Vowels in Order
+
+- Medium Question SET:
+  - 3. Longest Substring Without Repeating Characters
+  - 424. Longest Repeating Character Replacement
+  - 1004. Max Consecutive Ones III
+  - 904. Fruit Into Baskets
+  - 209. Minimum Size Subarray Sum
+  - 930. Binary Subarrays With Sum
+  - 2958. Length of Longest Subarray With at Most K Frequency
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Basic Algorithm Techniques
+Topic Name: Prefix Sum
+Questions
+
+- Easy Question SET:
+  - 303. Range Sum Query - Immutable
+  - 1480. Running Sum of 1d Array
+  - 1991. Find the Middle Index in Array
+  - 2574. Left and Right Sum Differences
+
+- Medium Question SET:
+  - 560. Subarray Sum Equals K
+  - 523. Continuous Subarray Sum
+  - 1248. Count Number of Nice Subarrays
+  - 1124. Longest Well-Performing Interval
+  - 2391. Minimum Amount of Time to Collect Garbage
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Basic Algorithm Techniques
+Topic Name: Sorting
+Questions
+
+- Easy Question SET:
+  - 2418. Sort the People
+  - 349. Intersection of Two Arrays
+  - 350. Intersection of Two Arrays II
+  - 1464. Maximum Product of Two Elements in an Array
+
+- Medium Question SET:
+  - 56. Merge Intervals
+  - 75. Sort Colors
+  - 912. Sort an Array
+  - 973. K Closest Points to Origin
+  - 215. Kth Largest Element in an Array
+  - 148. Sort List
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Basic Algorithm Techniques
+Topic Name: Binary Search
+Questions
+
+- Easy Question SET:
+  - 35. Search Insert Position
+  - 69. Sqrt(x)
+  - 278. First Bad Version
+  - 704. Binary Search
+  - 744. Find Smallest Letter Greater Than Target
+
+- Medium Question SET:
+  - 33. Search in Rotated Sorted Array
+  - 81. Search in Rotated Sorted Array II
+  - 34. Find First and Last Position of Element in Sorted Array
+  - 162. Find Peak Element
+  - 1011. Capacity To Ship Packages Within D Days
+  - 2300. Successful Pairs of Spells and Potions
+
+Topic Level: Level 2 — Intermediate JavaScript + Basic Data Structures
+Topic SET: Key Data Structures
+Topic Name: Linked List
+Questions
+
+- Easy Question SET:
+  - 206. Reverse Linked List
+  - 141. Linked List Cycle
+  - 160. Intersection of Two Linked Lists
+  - 234. Palindrome Linked List
+
+- Medium Question SET:
+  - 2. Add Two Numbers
+  - 19. Remove Nth Node From End of List
+  - 24. Swap Nodes in Pairs
+  - 92. Reverse Linked List II
+  - 142. Linked List Cycle II
+  - 707. Design Linked List
+  - 445. Add Two Numbers II
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Trees and Related
+Topic Name: Tree (General)
+Questions
+
+- Easy Question SET:
+  - 104. Maximum Depth of Binary Tree
+  - 100. Same Tree
+  - 101. Symmetric Tree
+  - 110. Balanced Binary Tree
+  - 112. Path Sum
+  - 257. Binary Tree Paths
+
+- Medium Question SET:
+  - 102. Binary Tree Level Order Traversal
+  - 103. Zigzag Level Order Traversal
+  - 114. Flatten Binary Tree to Linked List
+  - 236. Lowest Common Ancestor of a Binary Tree
+  - 199. Binary Tree Right Side View
+  - 129. Sum Root to Leaf Numbers
+  - 1448. Count Good Nodes in Binary Tree
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Trees and Related
+Topic Name: Binary Search Tree (BST)
+Questions
+
+- Easy Question SET:
+  - 700. Search in a Binary Search Tree
+  - 530. Minimum Absolute Difference in BST
+  - 938. Range Sum of BST
+
+- Medium Question SET:
+  - 98. Validate Binary Search Tree
+  - 230. Kth Smallest Element in a BST
+  - 235. Lowest Common Ancestor of a BST
+  - 173. Binary Search Tree Iterator
+  - 669. Trim a Binary Search Tree
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Trees and Related
+Topic Name: Trie
+Questions
+
+- Easy Question SET:
+  - (none commonly Easy in the provided list)
+
+- Medium Question SET:
+  - 208. Implement Trie (Prefix Tree)
+  - 648. Replace Words
+  - 720. Longest Word in Dictionary
+  - 1268. Search Suggestions System
+  - 421/676/677. Map Sum / Magic Dictionary
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Graph Theory
+Topic Name: Graph
+Questions
+
+- Easy Question SET:
+  - 1971. Find if Path Exists in Graph
+
+- Medium Question SET:
+  - 200. Number of Islands
+  - 133. Clone Graph
+  - 207. Course Schedule
+  - 210. Course Schedule II
+  - 743. Network Delay Time
+  - 886. Possible Bipartition
+  - 934. Shortest Bridge
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Graph Theory
+Topic Name: Depth-First Search (DFS)
+Questions
+
+- Easy Question SET:
+  - 733. Flood Fill
+  - 872. Leaf-Similar Trees
+
+- Medium Question SET:
+  - 200. Number of Islands
+  - 695. Max Area of Island
+  - 79. Word Search
+  - 130. Surrounded Regions
+  - 547. Number of Provinces
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Graph Theory
+Topic Name: Breadth-First Search (BFS)
+Questions
+
+- Easy Question SET:
+  - 637. Average of Levels in Binary Tree
+  - 733. Flood Fill (BFS variant)
+
+- Medium Question SET:
+  - 102. Binary Tree Level Order Traversal
+  - 1091. Shortest Path in Binary Matrix
+  - 752. Open the Lock
+  - 994. Rotting Oranges
+  - 515. Find Largest Value in Each Tree Row
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Other Advanced Structures
+Topic Name: Heap (Priority Queue)
+Questions
+
+- Easy Question SET:
+  - 703. Kth Largest Element in a Stream
+
+- Medium Question SET:
+  - 215. Kth Largest Element in an Array
+  - 973. K Closest Points to Origin
+  - 1167. Minimum Cost to Connect Sticks
+  - 621. Task Scheduler
+  - 767. Reorganize String
+  - 1792. Maximum Average Pass Ratio
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Other Advanced Structures
+Topic Name: Monotonic Stack / Queue
+Questions
+
+- Easy Question SET:
+  - 496. Next Greater Element I
+
+- Medium Question SET:
+  - 739. Daily Temperatures
+  - 907. Sum of Subarray Minimums
+  - 503. Next Greater Element II
+  - 316. Remove Duplicate Letters (stack approach)
+
+Topic Level: Level 4 — Algorithmic Paradigms & Patterns
+Topic SET: Core Paradigms
+Topic Name: Dynamic Programming
+Questions
+
+- Easy Question SET:
+  - 70. Climbing Stairs
+  - 118. Pascal's Triangle
+  - 119. Pascal's Triangle II
+  - 746. Min Cost Climbing Stairs
+
+- Medium Question SET:
+  - 198. House Robber
+  - 213. House Robber II
+  - 322. Coin Change
+  - 139. Word Break
+  - 300. Longest Increasing Subsequence
+  - 1143. Longest Common Subsequence
+  - 931. Minimum Falling Path Sum
+  - 309. Best Time to Buy and Sell Stock with Cooldown
+
+Topic Level: Level 4 — Algorithmic Paradigms & Patterns
+Topic SET: Core Paradigms
+Topic Name: Greedy
+Questions
+
+- Easy Question SET:
+  - 455. Assign Cookies
+  - 860. Lemonade Change
+  - 1403. Minimum Subsequence in Non-Increasing Order
+  - 1710. Maximum Units on a Truck
+
+- Medium Question SET:
+  - 134. Gas Station
+  - 435. Non-overlapping Intervals
+  - 763. Partition Labels
+  - 881. Boats to Save People
+  - 948. Bag of Tokens
+  - 621. Task Scheduler
+
+Topic Level: Level 4 — Algorithmic Paradigms & Patterns
+Topic SET: Core Paradigms
+Topic Name: Backtracking
+Questions
+
+- Easy Question SET:
+  - 401. Binary Watch
+
+- Medium Question SET:
+  - 17. Letter Combinations of a Phone Number
+  - 22. Generate Parentheses
+  - 39. Combination Sum
+  - 40. Combination Sum II
+  - 46. Permutations
+  - 47. Permutations II
+  - 78. Subsets
+  - 90. Subsets II
+  - 79. Word Search
+  - 131. Palindrome Partitioning
+
+Topic Level: Level 4 — Algorithmic Paradigms & Patterns
+Topic SET: Core Paradigms
+Topic Name: Divide and Conquer
+Questions
+
+- Easy Question SET:
+  - 108. Convert Sorted Array to Binary Search Tree
+  - 169. Majority Element
+
+- Medium Question SET:
+  - 148. Sort List
+  - 241. Different Ways to Add Parentheses
+  - 932. Beautiful Array
+  - 395. Longest Substring with At Least K Repeating Characters
+
+Topic Level: Level 4 — Algorithmic Paradigms & Patterns
+Topic SET: Core Paradigms
+Topic Name: Bit Manipulation
+Questions
+
+- Easy Question SET:
+  - 191. Number of 1 Bits
+  - 190. Reverse Bits
+  - 231. Power of Two
+  - 268. Missing Number
+  - 461. Hamming Distance
+  - 476. Number Complement
+  - 2220. Minimum Bit Flips to Convert Number
+
+- Medium Question SET:
+  - 137. Single Number II
+  - 260. Single Number III
+  - 201. Bitwise AND of Numbers Range
+  - 1318. Minimum Flips to Make a OR b Equal to c
+  - 1442. Count Triplets That Can Form Two Arrays of Equal XOR
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Trees and Related
+Topic Name: Segment Tree / Binary Indexed Tree (Fenwick)
+Questions
+
+- Easy Question SET:
+  - (none commonly Easy)
+
+- Medium Question SET:
+  - 307. Range Sum Query - Mutable
+  - 308. Range Sum Query 2D - Mutable
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Trees and Related
+Topic Name: Binary Tree (focused)
+Questions
+
+- Easy Question SET:
+  - 144. Binary Tree Preorder Traversal
+  - 145. Binary Tree Postorder Traversal
+  - 94. Binary Tree Inorder Traversal
+  - 226. Invert Binary Tree
+
+- Medium Question SET:
+  - 958. Check Completeness of a Binary Tree
+  - 662. Maximum Width of Binary Tree
+  - 1026. Maximum Difference Between Node and Ancestor
+  - 979. Distribute Coins in Binary Tree
+  - 1457. Pseudo-Palindromic Paths in a Binary Tree
+  - 863. All Nodes Distance K in Binary Tree
+
+Topic Level: Level 3 — Advanced Data Structures + Core Algorithms
+Topic SET: Graph Theory
+Topic Name: Union Find (Disjoint Set)
+Questions
+
+- Easy Question SET:
+  - (none commonly Easy)
+
+- Medium Question SET:
+  - 547. Number of Provinces
+  - 684. Redundant Connection
+  - 721. Accounts Merge
+  - 1319. Number of Operations to Make Network Connected
+  - 990. Satisfiability of Equality Equations
+
+Topic Level: Level 5 — Specialized & Advanced Topics
+Topic SET: Specialized Topics
+Topic Name: Matrix
+Questions
+
+- Easy Question SET:
+  - 566. Reshape the Matrix
+  - 733. Flood Fill
+  - 867. Transpose Matrix
+  - 3033. Modify the Matrix
+  - 2373. Largest Local Values in a Matrix
+
+- Medium Question SET:
+  - 54. Spiral Matrix
+  - 59. Spiral Matrix II
+  - 240. Search a 2D Matrix II
+  - 64. Minimum Path Sum
+  - 931. Minimum Falling Path Sum
+
+Topic Level: Level 5 — Specialized & Advanced Topics
+Topic SET: Specialized Topics
+Topic Name: Simulation
+Questions
+
+- Easy Question SET:
+  - 682. Baseball Game
+  - 1700. Number of Students Unable to Eat Lunch
+  - 2011. Final Value of Variable After Performing Operations
+
+- Medium Question SET:
+  - 880. Decoded String at Index
+  - 2017. Grid Game
+  - 2125. Number of Laser Beams in a Bank
+  - 2105. Watering Plants II
+
+Topic Level: Level 5 — Specialized & Advanced Topics
+Topic SET: Specialized Topics
+Topic Name: Design
+Questions
+
+- Easy Question SET:
+  - 225. Implement Stack using Queues
+  - 232. Implement Queue using Stacks
+  - 303. Range Sum Query - Immutable
+  - 346. Moving Average from Data Stream
+  - 933. Number of Recent Calls
+
+- Medium Question SET:
+  - 146. LRU Cache
+  - 355. Design Twitter
+  - 380. Insert Delete GetRandom O(1)
+  - 384. Shuffle an Array
+  - 535. Encode and Decode TinyURL
+  - 622. Design Circular Queue
+  - 641. Design Circular Deque
+  - 208. Implement Trie (Prefix Tree)
